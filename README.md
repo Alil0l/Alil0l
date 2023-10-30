@@ -1,8 +1,14 @@
+<h1 align="center">Ali Mostafa</h1>
+
+<p align="center">UX|UI Designer & Junior Flutter Developer</p>
+
 <p align="center">
-  <img src="your-profile-image.jpg" width="150">
+  <a href="mailto:aliwrker011@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/alil0l">LinkedIn</a> •
+  <a href="https://github.com/Alil0l">GitHub</a>
 </p>
 
-# Ali Mostafa - UX Designer & Junior Flutter Developer
+---
 
 ## About Me
 
@@ -10,7 +16,7 @@ Hello, I'm Ali Mostafa, and I'm a passionate designer on a unique journey. While
 
 My journey took a decisive turn when my team conceptualized a mobile application. Curiosity drove me to dive into the world of UX/UI design, and I was captivated. Post-graduation, I pivoted my career, immersing myself in the fundamentals of UX Design at Mahara-Tech. I further honed my skills through Udacity's Advanced UX Design Nano-Degree, all while translating theory into practice.
 
-Beside my UX design expertise, I've also embraced the world of Flutter app development. I've earned Flutter certificates from Coursera and Udemy courses, and you can find some of my projects right here on my GitHub.
+Beside my UX design expertise, I've also embraced the world of Flutter app development. I've earned Flutter certificates from Coursera and Udemy courses, and you can find some of my projects right here on my GitHub. As a junior Flutter developer and a UX designer, I'm dedicated to continuous growth, expanding my expertise, and crafting meaningful user experiences.
 
 ## Skills
 
@@ -19,20 +25,16 @@ Beside my UX design expertise, I've also embraced the world of Flutter app devel
 - **Front-End Development:** Familiar with HTML, CSS, and actively learning Dart and Flutter to become a proficient UI developer.
 - **Flutter Development:** Currently working as a junior Flutter developer, eager to learn more and grow in this field.
 
+---
+
 ## Portfolio
 
-- [![Behance Logo](behance-logo.png)](https://www.behance.net/[YourBehanceUsername]): Explore my design work and projects on Behance.
-- [![GitHub Logo](github-logo.png)](https://github.com/[YourGitHubUsername]): Check out my GitHub repositories for coding and development projects.
+[![Behance](https://img.shields.io/badge/Behance-View%20Portfolio-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/Alil0l)
 
-## Contact Information
-
-- **Email:** [Your Email Address]
-- [![LinkedIn Logo](linkedin-logo.png)](https://www.linkedin.com/in/[YourLinkedInUsername])
-- [![Twitter Logo](twitter-logo.png)](https://twitter.com/[YourTwitterUsername])
-- [![Portfolio Logo](portfolio-logo.png)](https://www.your-portfolio-website.com)
+---
 
 ## Let's Connect
 
-I'm always open to new opportunities, collaborations, and learning experiences. Whether you're interested in UX design, UI development, or Flutter, I'm eager to connect with like-minded individuals and grow together in this field. Feel free to reach out via email or connect with me on LinkedIn, Twitter, or through my portfolio website. Let's create great user experiences together!
+I'm always open to new opportunities, collaborations, and learning experiences. Whether you're interested in UX design, UI development, or Flutter, I'm eager to connect with like-minded individuals and grow together in this field. Feel free to reach out via email or connect with me on LinkedIn or GitHub. Let's create great user experiences together!
 
-![GitHub Contributions](https://img.shields.io/github/last-commit/[YourGitHubUsername]/[YourGitHubRepository])
+

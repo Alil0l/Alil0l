@@ -1,6 +1,6 @@
 <h1 align="center">Ali Mostafa</h1>
 
-<p align="center">UX|UI Designer & Junior Flutter Developer</p>
+<p align="center">UI Designer & Junior Front-End Developer & Junior Flutter Developer</p>
 
 <p align="center">
   <a href="mailto:aliwrker011@gmail.com">Email</a> •

@@ -15,7 +15,7 @@
 Hello, I'm Ali Mostafa, and I'm a passionate designer on a unique journey. UI Designer who is doing his best to be a UI Developer.
 - Front-End Developer. 
 - Flutter Developer. 
-- UI Designer Developer.
+- UI Designer.
 ## Skills
 
 - **UX Design:** Proficient in user experience design with hands-on experience in creating intuitive and user-centric interfaces.

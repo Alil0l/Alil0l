@@ -1,27 +1,30 @@
 <h1 align="center">Ali Mostafa</h1>
 
-<p align="center">UI Designer & Junior Front-End Developer & Junior Flutter Developer</p>
+<p align="center">Junior Front-End Developer & Junior Flutter Developer & UI Designer </p>
 
 <p align="center">
   <a href="mailto:aliwrker011@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/alil0l">LinkedIn</a> •
-  <a href="https://github.com/Alil0l">GitHub</a>
+  <a href="https://github.com/Alil0l">GitHub</a> •
+  <a href="https://www.hackerrank.com/alil0l">HackerRank</a>
 </p>
 
 ---
 
 ## About Me
 
-Hello, I'm Ali Mostafa, and I'm a passionate designer on a unique journey. UI Designer who is doing his best to be a UI Developer.
+Hello, I'm Ali Mostafa, and I'm a passionate Learner on a unique journey. a UI Designer who is doing his best to be a UI Developer.
 - Front-End Developer. 
 - Flutter Developer. 
-- UI Designer.
+- JS Developer.
+- UI/UX Designer.
+  
 ## Skills
 
-- **UX Design:** Proficient in user experience design with hands-on experience in creating intuitive and user-centric interfaces.
+- **Front-End Development:** Professional with HTML, CSS, and JS. Also actively learning React to become a proficient UI developer.
+- **Flutter Development:** Started to learn Flutter as a closer step to becoming a cross-mobile developer along with React Native.
+- **UX Design:** Proficient in user experience design with hands-on experience creating intuitive and user-centric interfaces.
 - **UI Design:** Skilled in crafting visually appealing user interfaces with a keen eye for aesthetics.
-- **Front-End Development:** Familiar with HTML, CSS, and actively learning JS to become a proficient UI developer.
-- **Flutter Development:** Currently working as a junior Flutter developer, eager to learn more and grow in this field.
 
 ---
 

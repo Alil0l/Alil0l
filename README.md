@@ -14,15 +14,14 @@
 ## About Me
 
 Hello, I'm Ali Mostafa, and I'm a passionate Learner on a unique journey. a UI Designer who is doing his best to be a UI Developer.
-- Front-End Developer. 
-- JS Developer.
-- Frappe Developer.
+- Front-End Developer (React, Vue3). 
+- Frappe Develope, Python Developer.
 - UI/UX Designer.
 - Flutter Developer. 
   
 ## Skills
 
-- **Front-End Development:** Professional with HTML, CSS, and JS. Also actively learning React to become a proficient UI developer.
+- **Front-End Development:** Professional with HTML, CSS, and JS. JS frameworks (React, Vue3). CSS frameworks (TailwindCss, Bootstrap, SCSS).
 - **FullStack Development:** Frappe Framwork for full stack development with Vue3, Python and SQL.
 - **Flutter Development:** Started to learn Flutter as a closer step to becoming a cross-mobile developer along with React Native.
 - **UX Design:** Proficient in user experience design with hands-on experience creating intuitive and user-centric interfaces.
